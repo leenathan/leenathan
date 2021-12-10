@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @leenathan
 - 👀 I’m interested in climate activism.
+- Find me on twitter - @tenaciouslee
 
 <!---
 leenathan/leenathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
